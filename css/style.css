@@ -1,0 +1,33 @@
+
+.icons .icon-block{
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.main_box{
+    display: table; width:100%;
+}
+
+.inner_box{
+    
+   display: table-cell; vertical-align: middle;
+}
+/*
+.tl-box {
+    border:1px solid black;
+    width:239px;
+    height:80px;
+    margin:13.5px;
+    position: relative;
+}
+.tl-box .tl-top {
+    width:45px;
+    height:39px;
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+    text-align:center;
+    font-size:15px;
+    color:#4e90cb;
+    line-height: 39px;
+}*/
